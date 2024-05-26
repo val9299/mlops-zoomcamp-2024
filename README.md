@@ -11,8 +11,9 @@ By Valerie G., 2024
 
 ## Folders overview
 - `01-intro` - Intro to the ML task used for this course
+- `02-experiment-tracking_mlflow` - Experiment Tracking & Model Registry with *MLflow*
 
-## Files in (almost) every folder
+## Files in every folder
 - `*_instructions.md` - instructions by [DataTalks.Club](https://datatalks.club/) (DTC) + answered questions by me
 - `README.md` - instructions on how to run the code
 - `requirements.txt` - requirements file to create the code environment
