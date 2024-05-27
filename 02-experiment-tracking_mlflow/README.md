@@ -50,6 +50,18 @@
         ```
     - Experiment "02-homework-Q3" -> click on the one run -> Parameters -> min_samples_split (Q3)
 
+- run
+    ```
+    python ./hpo.py
+    ```
+    - run (if not still running)
+        ```
+        mlflow ui --backend-store-uri sqlite:///mlflow.db
+        ```
+    - Experiment "random-forest-hyperopt" -> read best RMSE (on validation set) (Q5)
 
-TODO
-- answer Q4, Q5, Q6 from the homework instructions
+- run
+    ```
+    python ./register_model.py
+    ```
+    - Q6 answer will be printed to system output

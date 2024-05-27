@@ -85,7 +85,7 @@ You should keep the tracking server running to work on the next two exercises th
 
 In addition to `backend-store-uri`, what else do you need to pass to properly configure the server?
 
-* `default-artifact-root`
+* **`default-artifact-root`** <-- (my source: https://mlflow.org/docs/latest/tracking/artifacts-stores.html)
 * `serve-artifacts`
 * `artifacts-only`
 * `artifacts-destination`
@@ -110,7 +110,7 @@ The idea is to just log the information that you need to answer the question bel
 What's the best validation RMSE that you got?
 
 * 4.817
-* 5.335
+* **5.335** <-- (my result: 5.364)
 * 5.818
 * 6.336
 
@@ -130,7 +130,7 @@ Tip 2: to register the model you can use the method `mlflow.register_model` and 
 What is the test RMSE of the best model?
 
 * 5.060
-* 5.567
+* **5.567** <--
 * 6.061
 * 6.568
 
