@@ -1,7 +1,7 @@
 # Intro to the ML task (homework 1)
 ## Files
-- `01-homework_instructions.md` - instructions by DTC + answered questions
-- `01-homework.ipynb` - code verifying the answers
+- `homework_instructions.md` - instructions by DTC + answered questions
+- `homework.ipynb` - code verifying the answers
 - `README.md` - instructions on how to run the code
 - `requirements.txt` - requirements file to create the code environment
 - `data/yellow_tripdata_2023-01.parquet` - yellow taxi trip records from January 2023 (used as the training set)

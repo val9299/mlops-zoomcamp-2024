@@ -1,6 +1,6 @@
 # Experiment Tracking & Model Registry with MLflow (homework 2)
 ## Files
-- `02-homework_instructions.md` - instructions by DTC + answered questions
+- `homework_instructions.md` - instructions by DTC + answered questions
 - `README.md` - instructions on how to run the code
 - `requirements.txt` - requirements file to create the code environment
 - `*.py` - code verifying the answers

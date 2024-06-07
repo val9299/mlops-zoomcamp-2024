@@ -6,17 +6,29 @@ mlruns/
 mlflow.db
 mlartifacts/
 
-# W&B
-wandb/
-artifacts/
-regressor.pkl
-
-# Prefect
-models/
-.prefectignore
-.prefect
-prefect.yaml
-deployment.yaml
+# Mage
+pipelines/
+mage_data/
+*.db
+.DS_Store
+.cache/
+.file_versions
+.gitkeep
+.log
+.logs/
+.mage_temp_profiles
+.preferences.yaml
+.ssh_tunnel
+.terraform
+.terraform.*
+.variables/
+__pycache__/
+docker-compose.override.yml
+logs/
+secrets/
+terraform.tfstate
+terraform.tfstate.backup
+titanic_clean.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
