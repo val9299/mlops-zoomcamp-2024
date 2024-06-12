@@ -22,7 +22,7 @@ How many lines are in the created `metadata.yaml` file?
 
 - 35
 - 45
-- 55
+- **55** <--
 - 65
 
 ## Question 3. Creating a pipeline
@@ -35,7 +35,7 @@ How many records did we load?
 
 - 3,003,766
 - 3,203,766
-- 3,403,766
+- **3,403,766**
 - 3,603,766
 
 ## Question 4. Data preparation
@@ -70,7 +70,7 @@ What's the size of the result?
 
 - 2,903,766
 - 3,103,766
-- 3,316,216 
+- **3,316,216** 
 - 3,503,766
 
 ## Question 5. Train a model
@@ -88,7 +88,7 @@ What's the intercept of the model?
 Hint: print the `intercept_` field in the code block
 
 - 21.77
-- 24.77
+- **24.77**
 - 27.77
 - 31.77
 
@@ -152,7 +152,7 @@ Find the logged model, and find MLModel file. What's the size of the model? (`mo
 
 * 14,534
 * 9,534
-* 4,534
+* **4,534**
 * 1,534
 
 > Note: typically we do two last steps in one code block 
