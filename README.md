@@ -12,7 +12,8 @@ By Valerie G., 2024
 ## Folders overview
 - `01-intro` - Intro to the ML task used for this course
 - `02-experiment-tracking_mlflow` - Experiment Tracking & Model Registry with *MLflow*
-- `03-orchestration_mage` - Orchestration with *Mage*
+- `03-orchestration_mage` - Orchestration with *Mage* (homework 3 was not yet completed!)
+- `04-deployment` - Deployment with *FastAPI* and *Docker*
 
 ## Files in every folder
 - `homework_instructions.md` - instructions by [DataTalks.Club](https://datatalks.club/) (DTC) + answered questions by me
